@@ -1,0 +1,6 @@
+%%writefile promo_panel/team.yaml
+name: promo_panel
+description: Multi-lens promotion calibration panel with a structured final decision
+message_goes_to: candidate_packet
+default_inputs:
+  candidate_packet: "Senior Manager nominated for Director. Delivered 2x revenue growth in core region, strong team retention, but missed two cross-functional product launch deadlines due to scope creep."
