@@ -1,0 +1,6 @@
+%%writefile board_pitch/team.yaml
+name: board_pitch
+description: Stress-tests a strategic initiative, then drafts and compliance-checks the announcement
+message_goes_to: proposal
+default_inputs:
+  proposal: "Move all enterprise customers from annual flat-rate contracts to usage-based pricing in Q3."
